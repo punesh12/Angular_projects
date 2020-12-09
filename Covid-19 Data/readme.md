@@ -1,0 +1,1 @@
+A simple Angular js App build to show Covid-19 cases worldwide and by entering a specific country name.
