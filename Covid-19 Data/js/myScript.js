@@ -18,6 +18,7 @@ app.controller('myCtrl',($scope,$http)=>{
     });
 
     //get Country data
+    // process covid data from covid-19 worldwide data API
     $scope.get_c_data= ()=>{
         let Country= $scope.c;
 
